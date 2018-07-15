@@ -6,9 +6,6 @@
   "files": [
     "lib"
   ],
-  "scripts": {
-    "postinstall": "find ../ -name .babelrc -delete"
-  },
   "main": "lib/index.js",
   "repository": {
     "type": "git",
